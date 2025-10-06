@@ -2,12 +2,12 @@
 
 # 💫 About Me:
 
-<h5>🔭 I’m currently crafting digital worlds, tinkering with code, and breaking things (so I can fix them better).</h5>
-<h5>🌱 I follow wherever curiosity leads — whether it’s backend logic, data wrangling, or a splash of design magic.</h5>
-<h5>💬 Ask me about code, art, or coffee — I’ll probably reply with all three mixed together.</h5>
-<h5>🍰 Powered by caffeine, music, and that one “just one more bug” moment at 2 AM.</h5>
-<h5>💖 Random love: Soft rain, dim lights, calm playlists, and deep thought tangents.</h5>
-<h5>⚡ Fun fact: I believe every error message has a personality. (Some are just ruder than others.)</h5>
+<h5>🙏 “Whatever you do, work at it with all your heart, as working for the Lord, not for men.” — Colossians 3:23</h5>
+<h5>🏫 From Cebu Institute of Technology University</h5>
+<h5>💬 Ask me about code, music, or just Fourier transforms.</h5>
+<h5>🍰 Powered by caffeine, music, and the Holy Spirit</h5>
+<h5>💖 Random love: Kauyabon nako charot.</h5>
+<h5>⚡ Fun fact: I'm a singerist, scholar; a work in progress.</h5>
 
 # 🌐 Socials:
 
@@ -81,11 +81,11 @@
 
 # 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=florenziooo&show_icons=true&bg_color=00000000&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=florenziooo&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=florenziooo&hide_border=true&show_icons=true&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=florenziooo&theme=onedark-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenziooo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenziooo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000" 
   height="350"
 />
 
@@ -95,26 +95,5 @@
 
 ## 🌟 Contributions
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=florenziooo&theme=react)
-![Snake](https://raw.githubusercontent.com/florenziooo/florenziooo/output/github-snake-dark.svg)
-
----
-
-| ✍️ Random Dev Quote                                                                | 🔝 Top Contributed Repo                                                                                                                       |
-| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=florenziooo&limit=5&theme=dark&combine_all_yearly_contributions=true) |
-
----
-
-# 🐾 Digital Companions
-
-|                                                                            |                                                                            |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img src="https://render.gitanimals.org/farms/florenziooo"/>               | <img src="https://render.gitanimals.org/guilds/669546667782242005/draw" /> |
-| <img src="https://render.gitanimals.org/guilds/671643895035339143/draw" /> | <img src="https://render.gitanimals.org/guilds/672684621890333195/draw" /> |
-
----
-
-[![Visit Counter](https://komarev.com/ghpvc/?username=florenziooo&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=florenziooo&style=for-the-badge&color=3bcdeb)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&textBg=false&animation=twinkling&section=footer&reversal=false)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=florenziooo&hide_border=true&theme=radical)
+![Snake](https://raw.githubusercontent.com/florenziooo/output/github-snake-dark.svg)
